@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+#quiz-container {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+}
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+.correct { color: green; }
+.incorrect { color: red; }
